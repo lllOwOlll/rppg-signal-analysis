@@ -34,7 +34,8 @@ ROI Mask 생성 및 피부 영역 분리
 - NumPy를 이용하여 영상 크기의 Mask 생성
 - OpenCV fillPoly()를 이용해 선택한 얼굴 영역을 Polygon Mask로 생성
 - 배경 및 눈·코·입 등의 불필요한 영역을 제외하고 rPPG 분석에 사용할 피부 영역만 선택
-
+!image.png
+!Image1.jpg
 
 ROI RGB 신호 추출
 
